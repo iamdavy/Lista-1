@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664421180 source:e:\github\learning-c\nova-lista 05\questão 06\main.c
+	<stdio.h>
+	<stdlib.h>
+
