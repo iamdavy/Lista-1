@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680222421 source:e:\github\learning-c\lista 1\questão 35\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
