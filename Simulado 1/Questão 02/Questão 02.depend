@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682358673 source:e:\github\learning-c\simulado 1\questão 02\main.c
+	<stdio.h>
+	<stdlib.h>
+

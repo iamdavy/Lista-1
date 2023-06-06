@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685469075 source:e:\github\learning-c\lista 7\questão 16(pratica)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
